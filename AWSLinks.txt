@@ -1,0 +1,45 @@
+
+General IT Help: it.amazon.com
+Phone tool: phonetool.amazon.com
+Phone tool scripts (Enable more things to be seen in Phone Tool): https://w.amazon.com/index.php/Greasemonkey/PhoneTool
+Embark Instructions: embark.amazon.com
+Inside Portal: inside.amazon.com
+Nimbus (AWS Leadership): awslearningportal.corp.amazon.com
+KNET Learning (external link, login via SSO): https://knet.csod.com/client/knet/default.aspx
+AWS Training and Certification Portal: https://kiku.aws.training/
+MindTickle - AWS Experiential Learning (External link)
+https://amazonwebservices.mindtickle.com/#/courses/recents
+AWS Certified Cloud Practitioner: https://wisdom.corp.amazon.com/
+Customer Facing Training: aws.amazon.com/training/
+Amazon Broadcast Videos: https://broadcast.amazon.com/
+AWS Podcast: aws.amazon.com/podcasts/aws-podcast
+People Portal (HR): https://peopleportal.amazon.com/
+Payroll: https://www.allsechro.com/AmazonSSO/
+India Benefits: https://inside.amazon.com/en/Employment/INDBenefits/Pages/default.aspx
+Trouble Ticket: https://tt.amazon.com
+
+Isengard (AWS Account): https://isengard.amazon.com/registration
+Limit raise for Isengard (Takes 6 days to get it for all regions)
+https://ec2-baywatch-prod-iad.iad.proxy.amazon.com/noLimits
+ec2 instances information (external link): ec2instances.info
+Limit raise for any AWS service (Sagemaker etc..)
+https://fleet-management-console.amazon.com/public_aws_limit_requests/new
+Workspaces (Virtual Machines): https://corpws-umbrella.corp.amazon.com/#provision
+https://workspaces.amazon.com/
+
+PyCharm Server License: https://w.amazon.com/bin/view/JetBrains_Licenses/
+GitHub Training: https://w.amazon.com/bin/view/Open_Source/GitHub/
+ 
+Core AI ML tooling (Eider): https://w.amazon.com/bin/view/Eider
+
+Annual Calendar Planning
+https://inside.amazon.com/en/toolkits/admin/calendarmanagement/Pages/AnnualCalendarPlanning.aspx
+
+Insights into Customer: https://insights.corp.amazon.com/
+Industry highspot: https://aws.highspot.com/spots/5b351c30b9198863faebdb19
+
+TFC Community
+https://w.amazon.com/bin/view/AWS/Teams/TFC/
+ 
+Writing Hub:
+https://w.amazon.com/bin/view/WritingHub
