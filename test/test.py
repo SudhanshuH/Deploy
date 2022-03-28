@@ -9,7 +9,7 @@ from botocore.exceptions import ClientError
 logger = logging.getLogger(__name__)
 sm_client = boto3.client("sagemaker")
 
-
+# sample edit 28Mar 1:03pm
 def invoke_endpoint(endpoint_name):
     """
     Add custom logic here to invoke the endpoint and validate reponse
