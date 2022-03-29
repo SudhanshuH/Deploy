@@ -58,7 +58,12 @@ Resources:
           InitialVariantWeight: 1.0
           InstanceType: !Ref EndpointInstanceType
           ModelName: !GetAtt Model.ModelName
-          VariantName: AllTraffic
+          VariantName: VarA
+        - InitialInstanceCount: !Ref EndpointInstanceCount
+          InitialVariantWeight: 2.0
+          InstanceType: !Ref EndpointInstanceType
+          ModelName: !GetAtt Model.ModelName
+          VariantName: VarB
       DataCaptureConfig:
           EnableCapture: !Ref EnableDataCapture 
           InitialSamplingPercentage: !Ref SamplingPercentage
